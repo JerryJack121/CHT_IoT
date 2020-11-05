@@ -12,7 +12,7 @@ from firebase_admin import firestore
 
 #firestore
 # 引用私密金鑰
-cred = credentials.Certificate('你的Firestore金鑰')
+cred = credentials.Certificate('cht-iot-81bb9-firebase-adminsdk-mcyo1-f485f36332.json') #Firestore金鑰
 # 初始化firebase，注意不能重複初始化
 try:
     firebase_admin.initialize_app(cred)
