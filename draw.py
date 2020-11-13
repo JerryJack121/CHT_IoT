@@ -1,4 +1,4 @@
-#from Chen-Yen Chang
+# 程式碼複製自 Chen-Yen Chang
 
 import pandas as pd
 from matplotlib import pyplot as plt
